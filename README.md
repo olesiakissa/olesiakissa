@@ -17,5 +17,5 @@
   <a href="https://twitter.com/olesiakissa" target="_blank" title="Twitter"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://codepen.io/olesiakissa" target="_blank" title="Codepen"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/left-view.png" alt="Codepen"/></a>
   <a href="https://codepen.io/olesiakissa" target="_blank" title="Codewars"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/js.png" alt="Codewars"/></a>
-    <a href="#" title="LinkedIn (tba)"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/linkedin--v1.png" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/olesiakissa/?locale=en_US" title="LinkedIn"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/linkedin--v1.png" alt="LinkedIn"/></a>
 </div>
