@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  ![Olesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=olesiakissa&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
+  ![Olesia's GitHub stats](https://github-readme-stats-olesiakissa.vercel.app/api?username=olesiakissa&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
 
   <a href="https://www.frontendmentor.io/profile/olesiakissa" title="Frontend Mentor Profile"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/domain.png"/></a>
   <a href="mailto:okissaw@gmail.com" title="Gmail"><img width="32px" src="https://img.icons8.com/material-outlined/48/000000/gmail-new.png" alt="Gmail"/></a>
