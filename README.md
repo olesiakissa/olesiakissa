@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=%232C2933&size=18&width=500&height=30&lines=My+other+passions+are+dancing%2C+art+and+japanese+animation)](https://git.io/typing-svg)
 
-<h3 align="center">My technology stack</h3><br/>
+<br/><h3 align="center">My technology stack</h3><br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,10 +27,11 @@
 <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
-  
-  ![Olesia's GitHub stats](https://github-readme-stats-olesiakissa.vercel.app/api?username=olesiakissa&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
+<br/><h3 align="center">Github Stats</h3><br/>
+![Olesia's GitHub stats](https://github-readme-stats-olesiakissa.vercel.app/api?username=olesiakissa&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
 
+<h3 align="center">Links</h3>
+<div align="center">
   <a href="https://www.frontendmentor.io/profile/olesiakissa" title="Frontend Mentor Profile"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/domain.png"/></a>
   <a href="mailto:okissaw@gmail.com" title="Gmail"><img width="32px" src="https://img.icons8.com/material-outlined/48/000000/gmail-new.png" alt="Gmail"/></a>
   <a href="https://twitter.com/olesiakissa" title="Twitter"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/twitter.png" alt="Twitter"/></a>
