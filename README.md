@@ -8,7 +8,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=%232C2933&size=18&width=500&height=30&lines=My+other+passions+are+dancing%2C+art+and+japanese+animation)](https://git.io/typing-svg)
 
-<br/><h3>My technology stack</h3><br/>
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olesiakissa&theme=violet-punch&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
+  
+</div>
+
+<br/><h3>My technology stack</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,16 +37,18 @@
 <br/><h3>Learning in progress</h3>
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<br/><h3>Github Stats</h3><br/>
+<br/><h3>Github Stats</h3>
 ![Olesia's GitHub stats](https://github-readme-stats-olesiakissa.vercel.app/api?username=olesiakissa&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
+![Top Langs](https://github-readme-stats-olesiakissa.vercel.app/api/top-langs/?username=olesiakissa&layout=pie)
 
 <h3>Links</h3>
 <div>
   <a href="https://www.frontendmentor.io/profile/olesiakissa" title="Frontend Mentor Profile"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/domain.png"/></a>
   <a href="mailto:okissaw@gmail.com" title="Gmail"><img width="32px" src="https://img.icons8.com/material-outlined/48/000000/gmail-new.png" alt="Gmail"/></a>
-  <a href="https://twitter.com/olesiakissa" title="Twitter"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://codepen.io/olesiakissa" title="Codepen"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/left-view.png" alt="Codepen"/></a>
   <a href="https://codepen.io/olesiakissa" title="Codewars"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/js.png" alt="Codewars"/></a>
     <a href="https://exercism.org/profiles/olesiakissa" title="Exercism"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/curly-brackets.png" alt="Codewars"/></a>
     <a href="https://www.linkedin.com/in/olesiakissa/?locale=en_US" title="LinkedIn"> <img width="32px" src="https://img.icons8.com/material-outlined/48/000000/linkedin--v1.png" alt="LinkedIn"/></a>
-</div>
+</div><br/>
+
+[![](https://visitcount.itsvg.in/api?id=olesiakissa&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
