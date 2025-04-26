@@ -46,8 +46,8 @@
 
 
 <br/><h3>Github Stats</h3>
-![Olesia's GitHub stats](https://github-readme-stats-olesiakissa.vercel.app/api?username=olesiakissa&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
-![Top Langs](https://github-readme-stats-olesiakissa.vercel.app/api/top-langs/?username=olesiakissa&layout=pie)
+![Olesia's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=olesiakissa&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olesiakissa&layout=pie)
 
 <h3>Links</h3>
 <div>
